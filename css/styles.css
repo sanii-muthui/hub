@@ -1,0 +1,20 @@
+.description{
+    position: absolute !important;
+    top: 30%!important;
+    margin: auto!important;
+    padding: 2em!important;
+}
+.description h1{
+ color:#F97300 !important;
+}
+.description p{
+ color:#666!important;
+ font-size: 20px!important;
+ width: 50%!important;
+ line-height: 1.5!important;
+}
+.description button{
+ border:1px  solid #F97300!important;
+ background:#F97300!important;
+ color:#fff!important;
+}
